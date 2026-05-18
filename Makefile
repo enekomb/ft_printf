@@ -18,7 +18,7 @@ AR 			= 	ar rcs
 RM 			= 	rm -f
 
 PRINTFLIB	=	ft_printf.c 		\
-				ft_choose_format.c 	\
+				ft_set_format.c 	\
 				ft_putchar.c 		\
 				ft_putint.c 		\
 				ft_putstr.c 		\
