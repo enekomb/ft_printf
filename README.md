@@ -38,3 +38,23 @@ Uses **variadic functions** (`va_list`, `va_arg`) to handle variable argument li
 ## Skills
 
 `C` `Variadic Functions` `String Formatting` `Static Library` `Makefile`
+
+---
+
+## Academic Integrity
+
+This repository is shared for **educational and portfolio purposes only**.
+
+**For 42 students:**
+- Do not copy this code for your own project submissions
+- Use it as a reference to understand concepts and approaches
+- Write your own original solution — that is the only way to actually learn
+
+*42's core values are learning through practice, peer collaboration, and genuine problem-solving.*
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+Copyright (c) 2026 Eneko Muñoz Bordona
